@@ -44,4 +44,4 @@ Key Points
 	•	The goal of this repository is to give you an overview of the projects I’ve worked on and the logic behind the systems I built.
 	•	These are simplified code snippets to provide a high-level understanding of the overall projects.
 
-This layout helps break down the information into digestible sections, making the README easier to follow and more engaging visually.
+
