@@ -3,6 +3,7 @@ Instagram Automation Tool & Shopify Modules (Legacy Version) Code Snippets
 Overview
 
 This repository contains code snippets from two key projects I’ve worked on:
+
 	•	Instagram Automation Tool (created in 2017)
 	•	Shopify Modules (legacy version)
 
